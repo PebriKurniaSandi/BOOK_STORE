@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="harga" type="id" />
+    <item name="uangbayar" type="id" />
+    <item name="tombol1" type="id" />
+    <item name="totalbelanja" type="id" />
+    <item name="uangkembali" type="id" />
+    <item name="keterangan" type="id" />
+    <item name="tombol2" type="id" />
+    <item name="tombol3" type="id" />
+</resources>
